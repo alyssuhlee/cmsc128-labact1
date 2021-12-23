@@ -1,0 +1,218 @@
+h1 {
+  color: black;
+  text-align: left;
+  font-family: bebas neue;
+  font-size: 35px;
+}
+
+button{
+  font-size: 25px;
+  font-family: tahoma;
+  background-color: #FCEF91;
+  position: relative;
+  left: 120px;
+}
+
+#rectangle{
+    width: 1503px;
+    height: 80px;
+    background: #ffb6c1;
+    font-family: garamond;
+    font-size: 75px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.icon1 img {
+  width: 350px;
+  height: 250px;
+}
+
+.rcorner{
+  border-radius:25px;
+  padding: 20px;
+  background:#ca9bf7;
+  width:1010px;
+  height:8000px;
+  position: absolute;
+  top:25%;
+  left:33%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+
+.title h1{
+  font-family: "Nunito", sans-serif;
+    font-size: 50px;
+    padding: 10px;
+    position: absolute;
+  top:20%;
+  left:5%;
+  margin-top:20px;
+  margin-left: 750px;
+    transform: translate(-50%, -50%);
+    letter-spacing:0.1em;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #008080;
+  text-shadow: 20px 20px 	#000080;
+}
+
+.title h1{
+  font-family: "Nunito", sans-serif;
+  font-size: 50px;
+  padding: 10px;
+  position: absolute;
+  top:20%;
+  left:5%;
+  margin-top:20px;
+  margin-left: 750px;
+  transform: translate(-50%, -50%);
+  letter-spacing:0.1em;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #008080;
+  text-shadow: 20px 20px 	#000080;
+}
+
+.face-masks-1 {
+  position:absolute;
+  top:37%;
+  left:35%;
+}
+
+.face-masks-1 h2 {
+  font-family:"Copperplate",fantasy;
+  font-size: 32px;
+  text-align: center;
+}
+
+.face-masks-2 {
+  position:absolute;
+  top:165%;
+  left:35%;
+}
+
+.face-masks-2 h3 {
+  font-family:"Copperplate",fantasy;
+  font-size: 32px;
+  text-align: center;
+}
+
+.face-masks-3 {
+  position:absolute;
+  top:250%;
+  left:35%;
+}
+
+.face-masks-3 h4 {
+  font-family:"Copperplate",fantasy;
+  font-size: 32px;
+  text-align: center;
+}
+
+.coppermask {
+  position:absolute;
+  top:330%;
+  left:35%;
+}
+
+.coppermask h5 {
+  font-family:"Copperplate",fantasy;
+  font-size:32px;
+  text-align:center;
+}
+
+.kn95 {
+  position:absolute;
+  top:410%;
+  left:35%;
+}
+
+.kn95 h5 {
+  font-family:"Copperplate",fantasy;
+  font-size:32px;
+  text-align:center;
+}
+
+.neoprene {
+  position:absolute;
+  top:490%;
+  left:35%;
+}
+
+.neoprene h5 {
+  font-family:"Copperplate",fantasy;
+  font-size:32px;
+  text-align:center;
+}
+
+.transparentfaceshield {
+  position:absolute;
+  top:580%;
+  left:35%;
+}
+
+.transparentfaceshield h6 {
+  font-family:"Copperplate",fantasy;
+  font-size:32px;
+  text-align:center;
+}
+
+.tfs4kids {
+  position:absolute;
+  top:710%;
+  left:35%;
+}
+
+.tfs4kids h7 {
+  font-family:"Copperplate",fantasy;
+  font-size:32px;
+  text-align:center;
+}
+
+.hengdeeyeshield {
+  position:absolute;
+  top:820%;
+  left:35%;
+}
+
+.hengdeeyeshield h8 {
+  font-family:"Copperplate",fantasy;
+  font-size:32px;
+  text-align:center;
+}
+
+.ppesuit {
+  position:absolute;
+  top:990%;
+  left:35%;
+}
+
+.ppesuit h9 {
+  font-family:"Copperplate",fantasy;
+  font-size:32px;
+  text-align:center;
+}
+
+
+.vinylexamglove {
+  position:absolute;
+  top:1070%;
+  left:35%;
+}
+
+.vinylexamglove h10 {
+  font-family:"Copperplate",fantasy;
+  font-size:32px;
+  text-align:center;
+}
+
+.log-out-btn button{
+  top: -2px;
+  left: 95.2%;
+  background-color: #DDA0DD;
+  font-size: 16px;
+}

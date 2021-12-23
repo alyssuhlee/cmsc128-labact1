@@ -1,0 +1,48 @@
+h1 {
+  color: black;
+  text-align: left;
+  font-family: garamond;
+  font-size: 35px;
+}
+
+button{
+	font-size: 25px;
+	font-family: tahoma;
+  background-color: #FCEF91;
+  position: relative;
+  left: 120px;
+}
+
+#rectangle{
+    width: 1520px;
+    height: 80px;
+    background: #ffb6c1;
+    font-family: copperplate;
+    font-size: 75px;
+}
+
+body{
+  background-color: lightblue;
+}
+
+.icon1 img {
+  width: 350px;
+  height: 250px;
+}
+
+.icon2 img{
+  width:1020px;
+  height:522px;
+  position: absolute;
+  top:25%;
+  left:33%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+
+.log-out-btn button{
+  top: -2px;
+  left: 95.2%;
+  background-color: #DDA0DD;
+  font-size: 16px;
+}

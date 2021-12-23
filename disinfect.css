@@ -1,0 +1,281 @@
+h1 {
+    color: black;
+    text-align: left;
+    font-family: bebas neue;
+    font-size: 35px;
+  }
+  
+button{
+  font-size: 25px;
+  font-family: tahoma;
+  background-color: #FCEF91;
+  position: relative;
+  left: 120px;
+}
+  
+#rectangle{
+    width: 1503px;
+    height: 80px;
+    background: #ffb6c1;
+    font-family: garamond;
+    font-size: 75px;
+}
+  
+  body {
+    background-color: lightblue;
+  }
+  
+.icon1 img {
+  width: 350px;
+  height: 250px;
+}
+
+.rcorner{
+  border-radius:25px;
+  padding: 20px;
+  background:#ca9bf7;
+  width:1010px;
+  height:8880px;
+  position: absolute;
+  top:25%;
+  left:33%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+  
+  .dfm1 {
+    text-align:center;
+    background-image:url('../images/disinfection-foot-mat-1.jpg');
+    border:2px solid black;
+    border-radius:5px;
+    transition:transform 0.6s;
+    height:170px;
+    width:340px;
+    position: absolute;
+    top:34%;
+    left:38%;
+    margin-top:-50px;
+    margin-left:-50px;
+  }
+  
+  .dfm1:hover{
+    transform:scale(1.1);
+  }
+  
+  .title h1{
+    font-family: "Nunito", sans-serif;
+      font-size: 50px;
+      padding: 10px;
+      position: absolute;
+    top:20%;
+    left:5%;
+    margin-top:20px;
+    margin-left: 750px;
+      transform: translate(-50%, -50%);
+      letter-spacing:0.1em;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #008080;
+    text-shadow: 20px 20px 	#000080;
+  }
+  
+  .dfm{
+    position:absolute;
+    top:37%;
+    left:35%;
+  }
+  
+  .dfm h2{
+      font-family:"Copperplate",fantasy;
+      font-size: 32px;
+      text-align: center;
+  }
+  
+  .penwithsprayer{
+    position:absolute;
+    top:105%;
+    left:35%;
+  }
+  
+  .penwithsprayer h3{
+    font-family:"Copperplate",fantasy;
+      font-size: 27px;
+      text-align: center;
+    top:150%;
+    left:35%;
+  }
+  
+  .spraydisinfectionsmokemachine{
+    position:absolute;
+    top:175%;
+    left:53%;
+  }
+  
+  .spraydisinfectionsmokemachine h4{
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:200%;
+    left:50%;
+  }
+  
+  .safeguard1 {
+    position:absolute;
+    top:250%;
+    left:55%;
+  }
+  
+  .safeguard1 h5 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:300%;
+    left:25%;
+  }
+  
+  .safeguard2 {
+    position:absolute;
+    top:330%;
+    left:55%;
+  }
+  
+  .safeguard2 h6 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:360px;
+    left:25%;
+  }
+  
+  .sanitizer {
+    position: absolute;
+    top:420%;
+    left:55%;
+  }
+  
+  .sanitizer h7 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:450%;
+    left:25%;
+  }
+
+  .sanitizinggel {
+    position: absolute;
+    top:490%;
+    left:55%;
+  }
+
+  .sanitizinggel h8 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:520%;
+    left:25%;
+  }
+
+  .alcdiffsizes {
+    position: absolute;
+    top:570%;
+    left:40%;
+  }
+
+  .alcdiffsizes h9{
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:610%;
+    left:50%;
+  }
+
+  .alcdiffsizes2 {
+      position: absolute;
+      top:660%;
+      left:40%;
+  }
+
+  .alcdiffsizes2 h10 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:700%;
+    left:50%;
+  }
+
+  .lysoldisinfectantspray {
+    position: absolute;
+    top:800%;
+    left:40%;
+  }
+
+  .lysoldisinfectantspray h11 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:830%;
+    left:70%;
+  }
+
+  .alcoholwipes {
+    position: absolute;
+    top:880%;
+    left:40%;
+  }
+
+  .alcoholwipes h12 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:870%;
+    left:70%;
+  }
+
+  .zonrox1 {
+    position: absolute;
+    top:960%;
+    left:40%;
+  }
+
+  .zonrox1 h13 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:970%;
+    left:70%;
+  }
+
+  .zonrox2 {
+    position: absolute;
+    top:1100%;
+    left:40%;
+  }
+
+  .zonrox2 h14 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top:1010%;
+    left:70%;
+  }
+
+  .zimbleach {
+    position: absolute;
+    top:1185%;
+    left:40%;
+  }
+
+  .zimbleach h15 {
+    font-family:"Copperplate",fantasy;
+    font-size:27px;
+    text-align:center;
+    top: 1250px;
+    left:70%;
+  }
+
+  .log-out-btn button{
+  top: -2px;
+  left: 95.2%;
+  background-color: #DDA0DD;
+  font-size: 16px;
+}

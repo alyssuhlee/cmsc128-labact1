@@ -1,0 +1,26 @@
+@import url("style.css");
+
+body {
+   display: flex;
+   flex-direction: column;
+   background-image: url(logout-bg.jpg);
+}
+.logout-message {
+   margin-top: 7em;
+   text-align: center;
+}
+.logout-message > h2 {
+   color: #006400;
+   font-size: 3em;
+}
+.logout-message > h3 {
+   color: #006400;
+   font-size: 2.5em;
+   font-family: lucida handwriting;
+
+}
+.logout-message > p {
+   color: #006400;
+   font-size: 1.4em;
+   font-family: Poppins;
+}

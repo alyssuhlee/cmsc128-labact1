@@ -1,0 +1,121 @@
+h1 {
+  color: black;
+  text-align: left;
+  font-family: bebas neue;
+  font-size: 35px;
+}
+
+button{
+  font-size: 25px;
+  font-family: tahoma;
+  background-color: #FCEF91;
+  position: relative;
+  left: 120px;
+}
+
+#rectangle{
+    width: 1503px;
+    height: 80px;
+    background: #ffb6c1;
+    font-family: copperplate;
+    font-size: 75px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.icon1 img {
+  width: 350px;
+  height: 250px;
+}
+
+.rcorner{
+  border-radius:25px;
+  padding: 20px;
+  background:#ca9bf7;
+  width:950px;
+  height:500px;
+  position: absolute;
+  top:25%;
+  left:33%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+
+.grid-ctnr1{
+  display:grid;
+  grid-template-columns:1 fr 1 fr;
+  grid-gap:40px;
+}
+
+.grid-ctnr2{
+  display:grid;
+  grid-template-columns: 1fr;
+  grid-gap:40px;
+  padding-top:40px;
+}
+
+.ppes{
+  text-align:center;
+  background-image:url('../login/ppes.png');
+  border:2px solid black;
+  border-radius:5px;
+  transition:transform 0.6s;
+  height:170px;
+  width:340px;
+  position: absolute;
+  top:34%;
+  left:38%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+
+.ppes:hover{
+  transform:scale(1.1);
+}
+
+.disinfectants{
+  text-align:center;
+  background-image:url('../login/disinfectants.png');
+  border:2px solid black;
+  border-radius:5px;
+  transition:transform 0.6s;
+  height:170px;
+  width:340px;
+  position: absolute;
+  top:34%;
+  left:70%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+
+.disinfectants:hover{
+  transform:scale(1.1);
+}
+
+  .accessories{
+  text-align:center;
+  background-image:url('../login/accessories.png');
+  border:2px solid black;
+  border-radius:5px;
+  transition:transform 0.6s;
+  height:170px;
+  width:340px;
+  position: absolute;
+  top:70%;
+  left:54%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+
+.accessories:hover{
+  transform:scale(1.1);
+}
+
+.log-out-btn button{
+  top: -2px;
+  left: 95.2%;
+  background-color: #DDA0DD;
+  font-size: 16px;
+}
